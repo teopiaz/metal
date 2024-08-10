@@ -13,7 +13,7 @@
     "url": "git://github.com/iseeeva/metal.git"
   },
   "pkg": {
-    "targets": ["node16-win-x64"],
+    "targets": ["node16-linux"],
     "outputPath": "build"
   },
   "scripts": {
